@@ -7,7 +7,7 @@ public class exercise1 {
         String name = input.nextLine();
         System.out.println("Enter your age");
         int age = input.nextInt();
-        System.out.println("Hello "+name);
+        System.out.println("My name"+name);
         System.out.println("Your age is "+age);
     }
 }
